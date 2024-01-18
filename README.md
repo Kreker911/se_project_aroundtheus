@@ -16,7 +16,7 @@ This project is part of the Software Engineering program at TripleTen. It is a w
 - Users can change profile image.
 
 ### Plans for improving project: 
-Add light theme and enable switch mode funtion
+Add light theme and enable switch mode function
 
 ### Deployment
 
