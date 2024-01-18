@@ -15,7 +15,10 @@ This project is part of the Software Engineering program at TripleTen. It is a w
 - Users can delete cards and receive a confirmation form before deleting.
 - Users can change profile image.
 
-### Deployment
+### Plans for improving project: 
+Add light theme and enable switch mode funtion
+
+#### Deployment
 
 The project is deployed and accessible via the following link:
 
