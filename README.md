@@ -18,7 +18,7 @@ This project is part of the Software Engineering program at TripleTen. It is a w
 ### Plans for improving project: 
 Add light theme and enable switch mode funtion
 
-#### Deployment
+### Deployment
 
 The project is deployed and accessible via the following link:
 
